@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23873" started-at="2018-12-04T14:15:17Z" finished-at="2018-12-04T14:15:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23873" started-at="2018-12-04T14:15:17Z" finished-at="2018-12-04T14:15:41Z">
+      <class name="log4jPackage.NewTest">
+        <test-method status="PASS" signature="f()[pri:1, instance:log4jPackage.NewTest@52719fb6]" name="f" duration-ms="17149" started-at="2018-12-04T14:15:17Z" finished-at="2018-12-04T14:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:log4jPackage.NewTest@52719fb6]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-12-04T14:15:34Z" finished-at="2018-12-04T14:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="a()[pri:2, instance:log4jPackage.NewTest@52719fb6]" name="a" duration-ms="6425" started-at="2018-12-04T14:15:34Z" finished-at="2018-12-04T14:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:log4jPackage.NewTest@52719fb6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-12-04T14:15:41Z" finished-at="2018-12-04T14:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:log4jPackage.NewTest@52719fb6]" name="afterClass" is-config="true" duration-ms="3" started-at="2018-12-04T14:15:41Z" finished-at="2018-12-04T14:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- log4jPackage.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
